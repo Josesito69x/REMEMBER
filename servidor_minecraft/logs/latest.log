@@ -172,3 +172,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Aug2025 22:22:06.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [Stone Age]
 [02Aug2025 22:22:33.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [Getting an Upgrade]
 [02Aug2025 22:22:36.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Getting an Upgrade]
+[02Aug2025 22:28:35.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Monster Hunter]
+[02Aug2025 22:28:35.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [A Strange Grave Dust]
+[02Aug2025 22:28:52.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zabitar_YTYT> et
+[02Aug2025 22:32:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [Monster Hunter]
