@@ -148,6 +148,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-02 22:59:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2025-08-02 22:29:22 +0000"
@@ -535,6 +541,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 22:59:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-08-02 22:20:08 +0000"
@@ -640,6 +652,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-08-02 22:27:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-02 23:01:07 +0000"
     },
     "done": true
   },
@@ -937,6 +955,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-02 23:01:07 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/chisel_gold": {
     "criteria": {
       "has_rod": "2025-08-02 22:20:08 +0000"
@@ -1138,6 +1162,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-08-02 22:20:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-02 22:57:16 +0000"
     },
     "done": true
   },
@@ -1783,6 +1813,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-08-02 22:57:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-08-02 22:23:43 +0000"
@@ -1993,6 +2029,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-02 22:57:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-08-02 22:20:38 +0000"
@@ -2014,6 +2056,12 @@
   "cfm:recipes/decorations/magenta_trampoline": {
     "criteria": {
       "has_iron": "2025-08-02 22:48:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-02 23:01:07 +0000"
     },
     "done": true
   },
@@ -2067,7 +2115,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-08-02 22:28:18 +0000"
+      "cooked_porkchop": "2025-08-02 22:28:18 +0000",
+      "cooked_beef": "2025-08-02 23:00:45 +0000"
     },
     "done": false
   },
@@ -2104,6 +2153,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-08-02 22:20:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 22:59:26 +0000"
     },
     "done": true
   },

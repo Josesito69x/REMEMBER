@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-02 22:58:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-02 22:28:22 +0000"
@@ -185,6 +191,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-02 22:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-08-02 22:19:53 +0000"
@@ -236,6 +248,12 @@
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-02 22:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-02 23:05:08 +0000"
     },
     "done": true
   },
@@ -320,6 +338,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-02 22:40:10 +0000",
+      "minecraft:spider": "2025-08-02 22:56:04 +0000",
+      "minecraft:enderman": "2025-08-02 23:01:51 +0000",
       "minecraft:zombie": "2025-08-02 22:32:12 +0000"
     },
     "done": false
@@ -351,6 +371,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-08-02 22:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-02 22:56:05 +0000"
     },
     "done": true
   },
@@ -405,6 +431,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-08-02 22:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-02 22:56:05 +0000"
     },
     "done": true
   },
@@ -807,6 +839,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-02 22:20:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-02 23:04:31 +0000"
     },
     "done": true
   },
@@ -1284,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-02 22:56:05 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/measuring_tape": {
     "criteria": {
       "has_i": "2025-08-02 22:48:21 +0000"
@@ -1386,6 +1430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-02 22:56:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-08-02 22:19:28 +0000"
@@ -1479,6 +1529,12 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-08-02 22:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-02 22:59:03 +0000"
     },
     "done": true
   },
@@ -1623,6 +1679,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-08-02 22:24:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-02 23:04:31 +0000"
     },
     "done": true
   },
@@ -1872,6 +1934,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-08-02 22:59:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-08-02 22:22:42 +0000"
@@ -1968,6 +2036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-02 22:56:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-08-02 22:32:13 +0000"
@@ -2027,6 +2101,12 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-02 22:56:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-08-02 22:28:22 +0000"
@@ -2079,7 +2159,8 @@
     "criteria": {
       "cooked_porkchop": "2025-08-02 22:33:54 +0000",
       "tropical_fish": "2025-08-02 22:54:58 +0000",
-      "rotten_flesh": "2025-08-02 22:32:16 +0000"
+      "rotten_flesh": "2025-08-02 22:32:16 +0000",
+      "cooked_chicken": "2025-08-02 22:56:53 +0000"
     },
     "done": false
   },
@@ -2122,6 +2203,18 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-08-02 22:22:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 23:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-02 22:56:05 +0000"
     },
     "done": true
   },

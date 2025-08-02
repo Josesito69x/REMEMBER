@@ -251,3 +251,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Aug2025 22:53:55.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
 [02Aug2025 22:54:02.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
 [02Aug2025 22:55:22.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [They Have a Cave Troll!]
+[02Aug2025 22:56:05.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[02Aug2025 22:57:05.723] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[02Aug2025 22:57:05.728] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[02Aug2025 22:57:13.824] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[02Aug2025 22:57:13.830] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[02Aug2025 22:57:16.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has completed the challenge [It Spreads]
+[02Aug2025 22:57:35.075] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[02Aug2025 22:57:35.084] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[02Aug2025 22:58:37.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[02Aug2025 22:58:44.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[02Aug2025 22:58:51.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[02Aug2025 22:58:55.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [Not Today, Thank You]
+[02Aug2025 22:59:23.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Not Today, Thank You]
+[02Aug2025 22:59:26.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Knowledge of Death]
+[02Aug2025 22:59:26.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Ashes 'n Bones]
+[02Aug2025 23:01:14.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [Ashes 'n Bones]
+[02Aug2025 23:03:06.326] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[02Aug2025 23:03:06.331] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[02Aug2025 23:03:22.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[02Aug2025 23:03:29.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[02Aug2025 23:05:08.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [Take Aim]
