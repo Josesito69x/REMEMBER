@@ -157,3 +157,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [03Aug2025 05:05:19.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa joined the game
 [03Aug2025 05:05:19.154] [Server thread/INFO] [Jade/]: Syncing config to KillerPCausa (6704dc9b-7efe-35c9-8e60-77787708ce8f)
 [03Aug2025 05:06:12.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zabitar_YTYT> zzzz
+[03Aug2025 05:06:42.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zabitar_YTYT lost connection: Disconnected
+[03Aug2025 05:06:42.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT left the game
+[03Aug2025 05:07:33.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zabitar_YTYT[/127.158.43.128:34751] logged in with entity id 1761 at (1918.5307097359475, 66.0, -192.06652865148126)
+[03Aug2025 05:07:33.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT joined the game
+[03Aug2025 05:07:33.933] [Server thread/INFO] [Jade/]: Syncing config to Zabitar_YTYT (3af9ca3e-f8a0-3de2-a88e-7b0986b23e9a)
+[03Aug2025 05:09:49.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zabitar_YTYT lost connection: Disconnected
+[03Aug2025 05:09:49.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT left the game
+[03Aug2025 05:14:11.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zabitar_YTYT[/127.158.43.128:49305] logged in with entity id 3035 at (1916.2265535868987, 67.0, -190.69999998807907)
+[03Aug2025 05:14:11.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT joined the game
+[03Aug2025 05:14:11.840] [Server thread/INFO] [Jade/]: Syncing config to Zabitar_YTYT (3af9ca3e-f8a0-3de2-a88e-7b0986b23e9a)
