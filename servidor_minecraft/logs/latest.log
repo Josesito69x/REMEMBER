@@ -732,3 +732,39 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03Aug2025 00:44:32.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
 [03Aug2025 00:44:34.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
 [03Aug2025 00:45:08.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[03Aug2025 00:47:37.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KillerPCausa> Espec
+[03Aug2025 00:47:40.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Spectator Mode]
+[03Aug2025 00:47:43.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zabitar_YTYT> gey
+[03Aug2025 00:48:08.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[03Aug2025 00:48:13.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Applied effect Regeneration to KillerPCausa]
+[03Aug2025 00:48:59.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[03Aug2025 00:49:14.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[03Aug2025 00:49:15.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Sweet Dreams]
+[03Aug2025 00:49:31.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
+[03Aug2025 00:55:13.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [Rotten to the Core]
+[03Aug2025 01:01:30.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KillerPCausa> Zzz
+[03Aug2025 01:02:21.760] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 01:02:21.762] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 01:02:35.658] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 01:02:35.660] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 01:03:10.507] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 01:03:10.508] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 01:03:18.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa was slain by Zabitar_YTYT
+[03Aug2025 01:03:37.293] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 01:03:37.294] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 01:03:45.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT was slain by KillerPCausa
+[03Aug2025 01:04:18.631] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 01:04:18.632] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 01:04:24.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa was slain by Zabitar_YTYT
+[03Aug2025 01:04:33.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has reached the goal [Here They Come]
+[03Aug2025 01:04:36.404] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 01:04:36.406] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 01:04:47.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT was slain by KillerPCausa
+[03Aug2025 01:04:51.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Funeral Theft]
+[03Aug2025 01:06:29.228] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 01:06:29.229] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 01:06:33.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[03Aug2025 01:06:39.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[03Aug2025 01:06:41.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa was slain by Zabitar_YTYT
+[03Aug2025 01:06:41.480] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 01:06:43.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [Funeral Theft]

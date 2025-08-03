@@ -57,6 +57,7 @@
       "minecraft:river": "2025-08-03 00:06:05 +0000",
       "minecraft:dripstone_caves": "2025-08-02 23:40:48 +0000",
       "minecraft:grove": "2025-08-02 22:38:04 +0000",
+      "minecraft:forest": "2025-08-03 00:54:04 +0000",
       "minecraft:lush_caves": "2025-08-02 22:35:51 +0000",
       "minecraft:desert": "2025-08-03 00:42:40 +0000",
       "minecraft:jungle": "2025-08-02 23:10:01 +0000",
@@ -1040,7 +1041,8 @@
       "cooked_beef": "2025-08-02 23:00:45 +0000",
       "golden_apple": "2025-08-02 23:19:05 +0000",
       "bread": "2025-08-03 00:07:59 +0000",
-      "rotten_flesh": "2025-08-02 23:16:55 +0000"
+      "rotten_flesh": "2025-08-02 23:16:55 +0000",
+      "melon_slice": "2025-08-03 00:53:11 +0000"
     },
     "done": false
   },
@@ -2260,6 +2262,8 @@
     "criteria": {
       "woodland": "2025-08-02 23:56:47 +0000",
       "scrubland": "2025-08-02 23:58:44 +0000",
+      "fungal_jungle": "2025-08-03 00:50:48 +0000",
+      "floodplain": "2025-08-03 00:50:53 +0000",
       "old_growth_woodland": "2025-08-02 23:57:20 +0000",
       "overgrown_greens": "2025-08-02 23:46:41 +0000",
       "spider_nest": "2025-08-02 23:41:16 +0000",
@@ -2751,6 +2755,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-03 00:52:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2025-08-03 00:25:35 +0000"
@@ -2799,6 +2809,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-08-03 00:52:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-03 00:39:22 +0000"
@@ -2832,6 +2848,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-03 00:49:15 +0000"
     },
     "done": true
   },
@@ -2895,6 +2917,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 01:04:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
@@ -2910,6 +2938,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:00:54 +0000"
     },
     "done": true
   },
@@ -2931,6 +2965,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-03 01:00:54 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/red_gysahl": {
     "criteria": {
       "has_gysahl_green": "2025-08-03 00:02:35 +0000"
@@ -2940,6 +2980,12 @@
   "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-08-03 00:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:00:54 +0000"
     },
     "done": true
   },
@@ -2994,6 +3040,12 @@
   "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
       "has_planks": "2025-08-03 00:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:00:54 +0000"
     },
     "done": true
   },
@@ -3066,6 +3118,12 @@
   "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
     "criteria": {
       "has_kelp": "2025-08-03 00:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-03 00:52:57 +0000"
     },
     "done": true
   },
@@ -3189,6 +3247,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 01:04:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_cooler": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
@@ -3198,6 +3262,18 @@
   "cfm:recipes/decorations/gray_cooler": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-03 01:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-03 00:52:57 +0000"
     },
     "done": true
   },
@@ -3243,6 +3319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-08-03 01:00:57 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/gysahl_green_to_seeds": {
     "criteria": {
       "has_gysahl_green": "2025-08-03 00:02:35 +0000"
@@ -3252,6 +3334,12 @@
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:00:54 +0000"
     },
     "done": true
   },
@@ -3339,6 +3427,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-08-03 00:52:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/smooth_white_sandstone_stairs_from_smooth_white_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_white_sandstone": "2025-08-03 00:43:41 +0000"
@@ -3384,6 +3478,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:00:54 +0000"
     },
     "done": true
   },
@@ -3447,6 +3547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-03 00:52:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-08-03 00:16:24 +0000"
@@ -3468,6 +3574,12 @@
   "cfm:recipes/decorations/spruce_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-08-03 00:25:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-03 01:01:00 +0000"
     },
     "done": true
   },
@@ -3495,9 +3607,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:00:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_mail_box": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:00:54 +0000"
     },
     "done": true
   },
@@ -3579,6 +3709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-08-03 01:01:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
@@ -3588,6 +3724,12 @@
   "cfm:recipes/decorations/stripped_acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-03 01:00:54 +0000"
     },
     "done": true
   },
