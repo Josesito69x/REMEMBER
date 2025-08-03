@@ -768,3 +768,103 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03Aug2025 01:06:41.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa was slain by Zabitar_YTYT
 [03Aug2025 01:06:41.480] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
 [03Aug2025 01:06:43.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [Funeral Theft]
+[03Aug2025 01:07:56.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[03Aug2025 01:08:13.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[03Aug2025 01:08:37.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Applied effect Levitation to KillerPCausa]
+[03Aug2025 01:08:53.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set the weather to rain]
+[03Aug2025 01:09:12.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Applied effect Levitation to KillerPCausa]
+[03Aug2025 01:09:30.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[03Aug2025 01:11:11.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:21.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Applied effect Levitation to KillerPCausa]
+[03Aug2025 01:11:24.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:25.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:26.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:27.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:29.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:30.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:31.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:31.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:32.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:32.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:32.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:33.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:33.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:33.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:34.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:34.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:34.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:35.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:35.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:36.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:36.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:37.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:37.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:37.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:38.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:38.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:38.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:39.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:39.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:39.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:40.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:40.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:40.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:41.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:41.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:41.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:42.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:42.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:42.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:44.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:45.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:45.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:45.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:45.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:46.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:11:58.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Applied effect Levitation to KillerPCausa]
+[03Aug2025 01:12:01.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:12:01.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:12:02.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:12:04.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:12:54.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set the time to 1000]
+[03Aug2025 01:13:05.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:13:05.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:13:06.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:13:06.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:13:06.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:13:07.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:13:07.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:13:07.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:13:07.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:13:08.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:13:10.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:13:20.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:13:49.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Removed every effect from KillerPCausa]
+[03Aug2025 01:14:27.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[03Aug2025 01:14:36.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:14:40.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:14:42.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:14:49.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Summoned new Lightning Bolt]
+[03Aug2025 01:14:58.090] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 01:14:58.092] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 01:15:42.079] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 01:15:42.080] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 01:15:48.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT hit the ground too hard
+[03Aug2025 01:15:55.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zabitar_YTYT lost connection: Disconnected
+[03Aug2025 01:15:55.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT left the game
+[03Aug2025 01:15:59.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KillerPCausa lost connection: Disconnected
+[03Aug2025 01:15:59.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa left the game
+[03Aug2025 01:16:23.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Aug2025 01:16:23.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Aug2025 01:16:23.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Aug2025 01:16:23.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Aug2025 01:16:23.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Aug2025 01:16:24.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Aug2025 01:16:24.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[03Aug2025 01:16:24.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Aug2025 01:16:24.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Aug2025 01:16:24.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Aug2025 01:16:24.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[03Aug2025 01:16:24.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Aug2025 01:16:24.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Aug2025 01:16:24.602] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
