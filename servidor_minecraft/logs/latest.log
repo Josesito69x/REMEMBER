@@ -2017,3 +2017,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03Aug2025 06:12:14.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT was slain by KillerPCausa
 [03Aug2025 06:15:59.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Hot Stuff]
 [03Aug2025 06:16:04.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [Hot Stuff]
+[03Aug2025 06:28:56.606] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 06:28:56.620] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 06:29:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa was slain by Myrmex Soldier
+[03Aug2025 06:29:56.364] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 06:29:56.365] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 06:30:02.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT fell from a high place
+[03Aug2025 06:30:58.707] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 06:30:58.711] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 06:31:04.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa was slain by Zombie
