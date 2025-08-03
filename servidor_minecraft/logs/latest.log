@@ -2000,3 +2000,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03Aug2025 06:00:31.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set the weather to clear]
 [03Aug2025 06:01:06.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
 [03Aug2025 06:01:19.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[03Aug2025 06:02:28.814] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityTerrapin['Koopa'/7548, l='ServerLevel[world]', x=1917.63, y=63.00, z=-204.38] died: Koopa was struck by lightning
+[03Aug2025 06:06:28.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[03Aug2025 06:06:46.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[03Aug2025 06:06:47.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[03Aug2025 06:07:09.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[03Aug2025 06:07:12.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[03Aug2025 06:07:15.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Spectator Mode]
+[03Aug2025 06:07:38.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zabitar_YTYT> aaaaa
+[03Aug2025 06:07:51.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Creative Mode]
+[03Aug2025 06:08:17.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Spectator Mode]
+[03Aug2025 06:08:18.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[03Aug2025 06:11:58.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Teleported Zabitar_YTYT to KillerPCausa]
+[03Aug2025 06:12:07.546] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 06:12:07.547] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 06:12:14.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT was slain by KillerPCausa
