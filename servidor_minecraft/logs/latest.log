@@ -2026,3 +2026,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03Aug2025 06:30:58.707] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
 [03Aug2025 06:30:58.711] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
 [03Aug2025 06:31:04.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa was slain by Zombie
+[03Aug2025 06:36:18.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [Gone Bananas!]
+[03Aug2025 06:39:04.492] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 06:39:04.493] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 06:39:08.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT was slain by KillerPCausa
+[03Aug2025 06:39:08.894] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 06:39:45.221] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 06:39:45.223] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 06:39:51.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa was slain by Zabitar_YTYT
+[03Aug2025 06:41:43.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set the time to 1000]
