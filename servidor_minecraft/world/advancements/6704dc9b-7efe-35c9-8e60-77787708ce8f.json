@@ -58,10 +58,12 @@
       "minecraft:dripstone_caves": "2025-08-02 23:40:48 +0000",
       "minecraft:grove": "2025-08-02 22:38:04 +0000",
       "minecraft:lush_caves": "2025-08-02 22:35:51 +0000",
+      "minecraft:desert": "2025-08-03 00:42:40 +0000",
       "minecraft:jungle": "2025-08-02 23:10:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-02 22:23:34 +0000",
       "minecraft:deep_dark": "2025-08-02 22:35:53 +0000",
-      "minecraft:savanna": "2025-08-03 00:00:14 +0000"
+      "minecraft:savanna": "2025-08-03 00:00:14 +0000",
+      "minecraft:plains": "2025-08-03 00:41:12 +0000"
     },
     "done": false
   },
@@ -2773,15 +2775,33 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
     },
     "done": true
   },
@@ -2800,6 +2820,18 @@
   "cfm:recipes/decorations/blue_cooler": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
     },
     "done": true
   },
@@ -2827,6 +2859,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
@@ -2839,9 +2889,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
     },
     "done": true
   },
@@ -2905,6 +2973,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/pink_gysahl": {
     "criteria": {
       "has_gysahl_green": "2025-08-03 00:02:35 +0000"
@@ -2935,6 +3015,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_cooler": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
@@ -2944,6 +3030,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
     },
     "done": true
   },
@@ -3061,9 +3153,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-08-03 00:31:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
     },
     "done": true
   },
@@ -3121,6 +3225,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-08-03 00:29:14 +0000"
@@ -3139,9 +3249,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_white_sandstone_slab_from_smooth_white_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_white_sandstone": "2025-08-03 00:43:41 +0000"
     },
     "done": true
   },
@@ -3175,9 +3297,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
     },
     "done": true
   },
@@ -3193,9 +3333,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/smooth_white_sandstone_slab": {
+    "criteria": {
+      "has_smooth_white_sandstone": "2025-08-03 00:43:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_white_sandstone_stairs_from_smooth_white_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_white_sandstone": "2025-08-03 00:43:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-08-03 00:12:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
     },
     "done": true
   },
@@ -3208,6 +3366,30 @@
   "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
     },
     "done": true
   },
@@ -3250,6 +3432,18 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-08-03 00:25:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
     },
     "done": true
   },
@@ -3313,6 +3507,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/smooth_white_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_white_sandstone": "2025-08-03 00:43:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2025-08-03 00:25:35 +0000"
@@ -3358,6 +3558,12 @@
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-03 00:39:22 +0000"
     },
     "done": true
   },
