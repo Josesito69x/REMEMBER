@@ -50,3 +50,13 @@
 [03Aug2025 00:22:53.035] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
 [03Aug2025 00:22:57.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has completed the challenge [Praise the Sun]
 [03Aug2025 00:22:59.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT was slain by Umvuthi, the Sunbird
+[03Aug2025 00:27:36.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set the time to 1000]
+[03Aug2025 00:29:15.622] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 00:29:15.629] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 00:29:31.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set the time to 1000]
+[03Aug2025 00:29:32.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Applied effect Regeneration to KillerPCausa]
+[03Aug2025 00:29:42.373] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 00:29:42.382] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 00:29:48.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa was slain by Siren
+[03Aug2025 00:29:52.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT was slain by Siren
+[03Aug2025 00:32:30.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [We do a little trolling...]
