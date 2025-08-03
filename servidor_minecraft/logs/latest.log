@@ -2035,3 +2035,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03Aug2025 06:39:45.223] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
 [03Aug2025 06:39:51.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa was slain by Zabitar_YTYT
 [03Aug2025 06:41:43.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set the time to 1000]
+[03Aug2025 06:46:32.506] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 06:46:32.513] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 06:46:40.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT was slain by Zabitar_YTYT
+[03Aug2025 06:49:58.964] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 06:49:58.965] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 06:50:04.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa was slain by Zabitar_YTYT
+[03Aug2025 06:50:39.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Spectator Mode]
+[03Aug2025 06:50:45.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set own game mode to Survival Mode]
+[03Aug2025 06:51:19.858] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 06:51:19.865] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 06:51:26.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT was slain by Zabitar_YTYT
