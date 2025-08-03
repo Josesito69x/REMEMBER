@@ -52,6 +52,7 @@
       "minecraft:birch_forest": "2025-08-02 07:53:36 +0000",
       "minecraft:dark_forest": "2025-08-02 22:29:56 +0000",
       "minecraft:sparse_jungle": "2025-08-02 23:39:34 +0000",
+      "minecraft:river": "2025-08-03 00:06:05 +0000",
       "minecraft:dripstone_caves": "2025-08-02 23:40:48 +0000",
       "minecraft:grove": "2025-08-02 22:38:04 +0000",
       "minecraft:lush_caves": "2025-08-02 22:35:51 +0000",
@@ -1034,6 +1035,7 @@
       "cooked_mutton": "2025-08-02 23:09:05 +0000",
       "cooked_beef": "2025-08-02 23:00:45 +0000",
       "golden_apple": "2025-08-02 23:19:05 +0000",
+      "bread": "2025-08-03 00:07:59 +0000",
       "rotten_flesh": "2025-08-02 23:16:55 +0000"
     },
     "done": false
@@ -2913,6 +2915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-03 00:05:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_cooler": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
@@ -2949,9 +2957,21 @@
     },
     "done": true
   },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-08-03 00:07:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 00:10:30 +0000"
     },
     "done": true
   },
@@ -2964,6 +2984,12 @@
   "cfm:recipes/decorations/warped_mail_box": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2025-08-03 00:05:58 +0000"
     },
     "done": true
   },
@@ -3036,6 +3062,12 @@
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2025-08-03 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 00:12:56 +0000"
     },
     "done": true
   },

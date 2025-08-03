@@ -1,2 +1,42 @@
 [03Aug2025 00:02:30.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KillerPCausa: Set spawn point to 1743, 70, -174 [0.0] in minecraft:overworld for 2 players]
 [03Aug2025 00:03:44.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Suit Up]
+[03Aug2025 00:07:12.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [Birds of a Feather]
+[03Aug2025 00:07:14.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Birds of a Feather]
+[03Aug2025 00:07:31.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1726, y=73, z=-263} BlockPos{x=1725, y=73, z=-262}
+[03Aug2025 00:08:05.284] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 00:08:05.286] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 00:08:15.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT was slain by Umvuthi, the Sunbird
+[03Aug2025 00:09:43.980] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 00:09:43.982] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 00:09:54.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT burned to death
+[03Aug2025 00:10:24.187] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 00:10:24.189] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 00:10:30.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has reached the goal [Strong or Careful]
+[03Aug2025 00:10:30.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa burned to death
+[03Aug2025 00:10:44.032] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 00:10:44.034] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 00:10:50.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT hit the ground too hard
+[03Aug2025 00:11:34.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KillerPCausa moved wrongly!
+[03Aug2025 00:12:03.930] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 00:12:03.932] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 00:12:10.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[03Aug2025 00:12:41.430] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 00:12:41.432] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 00:12:50.131] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 00:12:50.133] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 00:12:54.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT was slain by Umvuthi, the Sunbird
+[03Aug2025 00:12:56.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has reached the goal [Chain Death]
+[03Aug2025 00:12:56.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa burned to death
+[03Aug2025 00:14:34.983] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 00:14:34.985] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 00:14:35.430] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 00:14:35.432] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 00:14:41.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa burned to death
+[03Aug2025 00:14:51.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT burned to death
+[03Aug2025 00:15:34.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KillerPCausa moved wrongly!
+[03Aug2025 00:15:41.828] [Server thread/WARN] [tombstone/]: The death event of the player KillerPCausa was canceled by another mod
+[03Aug2025 00:15:41.830] [Server thread/INFO] [tombstone/]: The player KillerPCausa has successfully been saved
+[03Aug2025 00:15:47.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa burned to death
+[03Aug2025 00:16:09.581] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
+[03Aug2025 00:16:09.582] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
+[03Aug2025 00:16:19.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT was slain by Umvuthi, the Sunbird
