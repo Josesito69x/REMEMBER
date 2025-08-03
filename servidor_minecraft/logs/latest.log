@@ -2015,3 +2015,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [03Aug2025 06:12:07.546] [Server thread/WARN] [tombstone/]: The death event of the player Zabitar_YTYT was canceled by another mod
 [03Aug2025 06:12:07.547] [Server thread/INFO] [tombstone/]: The player Zabitar_YTYT has successfully been saved
 [03Aug2025 06:12:14.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT was slain by KillerPCausa
+[03Aug2025 06:15:59.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KillerPCausa has made the advancement [Hot Stuff]
+[03Aug2025 06:16:04.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zabitar_YTYT has made the advancement [Hot Stuff]
